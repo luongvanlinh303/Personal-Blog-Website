@@ -30,6 +30,7 @@
 			"ft ft";
 	}
 }
+
 @media (min-width: 1025px) {
 	#grid-container {
 		height: 150vh;
@@ -44,6 +45,7 @@
 			"ft ft";
 	}
 }
+
 /* content */
 
 #post-img {
@@ -101,6 +103,7 @@
 	margin: 0;
 	padding: 0;
 }
+
 /* tile styling */
 
 .text-summary {

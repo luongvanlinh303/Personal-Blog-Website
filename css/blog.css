@@ -38,7 +38,7 @@
 	grid-area: hd;
 	width: 100%;
 	height: auto;
-	background-image: url("../images/post-5.jpg");
+	background-image: url("../images/overall.jpg");
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -48,6 +48,7 @@
 #post {
 	padding: 0 30px 20px 30px;
 }
+
 .blog-article {
 	grid-area: bg;
 	height: auto;
@@ -121,10 +122,12 @@ footer {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	margin: 12px;
 }
+
 .author-info p {
 	text-align: center !important;
 	margin: 10px;
 }
+
 .author-link-img {
 	opacity: 0.7;
 	width: 30px;
@@ -145,6 +148,7 @@ footer {
 		margin: auto 1px;
 	}
 }
+
 @media (min-width: 900px) {
 	.author {
 		margin-top: 30px;
